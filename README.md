@@ -26,19 +26,19 @@ Also deep into Minecraft plugin/mod development and open-source bot infrastructu
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[Groove-Music](https://github.com/faisalg1t/Groove-Music)** &nbsp;·&nbsp; <samp>javascript, discord.js</samp><br>
+**[Groove-Music](https://github.com/faisaljs/Groove-Music)** &nbsp;·&nbsp; <samp>javascript, discord.js</samp><br>
 Music bot built on Discord's Components V2. The flagship bot of Eleone Hub,<br>
 Premium music, and actively maintained.
 
-**[OmniGrab](https://github.com/faisalg1t/social-downloader)** &nbsp;·&nbsp; <samp>python, yt-dlp</samp><br>
+**[OmniGrab](https://github.com/faisaljs/social-downloader)** &nbsp;·&nbsp; <samp>python, yt-dlp</samp><br>
 A self-hosted, mobile-friendly web app for fetching video/audio from YouTube, Instagram, TikTok and hundreds of other sites,<br>
 powered by yt-dlp and FastAPI.
 
-**[SpeakEasy](https://github.com/faisalg1t/speakeasy)** &nbsp;·&nbsp; <samp>python, flask</samp><br>
+**[SpeakEasy](https://github.com/faisaljs/speakeasy)** &nbsp;·&nbsp; <samp>python, flask</samp><br>
 Text-to-Speech & Speech-to-Text web app. Python (Flask) backend, vanilla JS frontend,<br>
 clean architecture, ready to scale.
 
-**[GitHub-Profile-API](https://github.com/faisalg1t/github-profile-api)** &nbsp;·&nbsp; <samp>typescript, rest-api</samp><br>
+**[GitHub-Profile-API](https://github.com/faisaljs/github-profile-api)** &nbsp;·&nbsp; <samp>typescript, rest-api</samp><br>
 Self-hosted API that generates dynamic SVG cards and JSON summaries for any GitHub profile<br>
 GitHub GraphQL + REST APIs (no third-party data broker, no scraping).
 
