@@ -4,25 +4,23 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[faisal.dev](https://faisaljs.github.io) &nbsp;·&nbsp;
-[discord](https://discord.gg/TGF3fCXtRm) &nbsp;·&nbsp;
-[youtube](https://youtube.com/@cyeroxdev) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/faisal.jsz)
+[portfolio](https://faisaljs.github.io) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/faisaljsz)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Student developer. Founder of [Eleone Hub](https://discord.gg/TGF3fCXtRm), a dev community<br>
+>  BCA student at IGNOU, developer. Founder of [Leaf-Devs](https://github.com/leaf-devs), a dev community<br>
 > built around the process of turning ideas into real things.
 
-I build Discord bots and the tooling around them. Most of what I ship lives inside<br>
-[Eleone Hub](https://github.com/eleonehub), from concept to commit.<br>
+I build Websites, Applications, Bots and the tooling around them. Most of what I ship lives inside<br>
+[Leaf-Devs](https://github.com/leaf-devs), from concept to commit.<br>
 Also deep into Minecraft plugin/mod development and open-source bot infrastructure.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>javascript &nbsp; typescript &nbsp; discord.js &nbsp; node &nbsp; python &nbsp; mongodb &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>c &nbsp; python &nbsp; java &nbsp; node &nbsp; postgresql &nbsp; mongodb &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
@@ -30,17 +28,17 @@ Also deep into Minecraft plugin/mod development and open-source bot infrastructu
 Music bot built on Discord's Components V2. The flagship bot of Eleone Hub,<br>
 Premium music, and actively maintained.
 
-**[OmniGrab](https://github.com/faisaljs/social-downloader)** &nbsp;·&nbsp; <samp>python, yt-dlp</samp><br>
-A self-hosted, mobile-friendly web app for fetching video/audio from YouTube, Instagram, TikTok and hundreds of other sites,<br>
-powered by yt-dlp and FastAPI.
+**[InstaGrab](https://github.com/faisaljs/InstaGrab)** &nbsp;·&nbsp; <samp>kotlin, yt-dlp</samp><br>
+A privacy-friendly Android app for downloading public Instagram reels, photos, videos, and carousel posts.<br>
+powered by yt-dlp and kotlin.
 
-**[SpeakEasy](https://github.com/faisaljs/speakeasy)** &nbsp;·&nbsp; <samp>python, flask</samp><br>
-Text-to-Speech & Speech-to-Text web app. Python (Flask) backend, vanilla JS frontend,<br>
-clean architecture, ready to scale.
+**[Python-Codes](https://github.com/faisaljs/Python-Codes)** &nbsp;·&nbsp; <samp>python, codes</samp><br>
+A community-driven collection of Python projects, exercises, mini-projects, tools,<br>
+and useful examples for learning, practicing, and building with Python.
 
-**[GitHub-Profile-API](https://github.com/faisaljs/github-profile-api)** &nbsp;·&nbsp; <samp>typescript, rest-api</samp><br>
-Self-hosted API that generates dynamic SVG cards and JSON summaries for any GitHub profile<br>
-GitHub GraphQL + REST APIs (no third-party data broker, no scraping).
+**[C-Cpp-Codes](https://github.com/faisaljs/C-Cpp-Codes)** &nbsp;·&nbsp; <samp>c, cpp</samp><br>
+A community-driven collection of C and C++ code, exercises, mini-projects,<br>
+and useful examples for learning and practicing C/C++.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
