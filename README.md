@@ -11,7 +11,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
->  BCA student at IGNOU, developer. Founder of [Leaf-Devs](https://github.com/leaf-devs), a dev community<br>
+> Student, Developer. Founder of [Leaf-Devs](https://github.com/leaf-devs), a dev community<br>
 > built around the process of turning ideas into real things.
 
 I build Websites, Applications, Bots and the tooling around them. Most of what I ship lives inside<br>
